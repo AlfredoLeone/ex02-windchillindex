@@ -60,6 +60,8 @@ using std::string;
 
 using namespace ::testing_internal;
 
+typedef uint64_t uint;
+
 class WindChillIndexTest : public ::testing::Test {
 protected:
     static const uint MAX_TESTED_SCORE = 20;
