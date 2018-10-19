@@ -8,8 +8,8 @@
 
 using std:: cout;
 using std:: cin;
- using std:: endl;
- using edu::vcccd::vc::csv13::computeWindChillIndex;
+using std:: endl;
+using edu::vcccd::vc::csv13::computeWindChillIndex;
 
 
 double w (double v, double T);
